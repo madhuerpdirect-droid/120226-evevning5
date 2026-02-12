@@ -1,0 +1,7 @@
+{
+  "name": "new Bhadrakai chits 12.2.26 4:55pm with out backup restore",
+  "description": "A professional chit fund management system for tracking installments, allotments, collections, and reports with WhatsApp integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
